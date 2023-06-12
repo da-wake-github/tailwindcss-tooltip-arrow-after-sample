@@ -1,0 +1,16 @@
+{
+  "name": "tailwindcss-tooltip-arrow-after",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i src.css -o style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2",
+    "tailwindcss-tooltip-arrow-after": "^1.0.0"
+  }
+}
